@@ -18,7 +18,7 @@ The following are the generative deep learning models that I have implemented to
 
 2. [**Conditional GAN**](https://github.com/JersonGB22/CondicionalGAN-TensorFlow-PyTorch): An extension of GANs that allows generating data conditioned on certain information. 
 
-3. [**CycleGAN**](https://github.com/JersonGB22/CycleGAN-horse2zebra-TensorFlow-PyTorch): A model for translating images from one domain to another, without the need for paired data. 
+3. [**CycleGAN**](https://github.com/JersonGB22/CycleGAN-TensorFlow-PyTorch): A model for translating images from one domain to another, without the need for paired data. 
 
 4. [**DCGAN (Deep Convolutional Generative Adversarial Networks)**](): A variant of GANs that uses convolutional layers in its networks. 
 
