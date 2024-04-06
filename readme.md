@@ -20,17 +20,17 @@ The following are the generative deep learning models that I have implemented to
 
 3. [**CycleGAN**](https://github.com/JersonGB22/CycleGAN-TensorFlow-PyTorch): A model for translating images from one domain to another, without the need for paired data. 
 
-4. [**DCGAN (Deep Convolutional Generative Adversarial Networks)**](): A variant of GANs that uses convolutional layers in its networks. 
+4. [**DCGAN (Deep Convolutional Generative Adversarial Networks)**](https://github.com/JersonGB22/DCGAN-TensorFlow-PyTorch): A variant of GANs that uses convolutional layers in its networks. 
 
-5. [**GAN (Generative Adversarial Networks)**](): GANs are a type of generative model that uses two neural networks, a generator and a discriminator, which are trained simultaneously. 
+5. [**GAN (Generative Adversarial Networks)**](https://github.com/JersonGB22/GAN-TensorFlow-PyTorch): GANs are a type of generative model that uses two neural networks, a generator and a discriminator, which are trained simultaneously. 
 
-6. [**GAN Controllable Generation**](): A model that allows controlling the characteristics of the generated data. 
+6. [**GAN Controllable Generation**](https://github.com/JersonGB22/GANControllableGeneration-TensorFlow-PyTorch): A model that allows controlling the characteristics of the generated data. 
 
-7. [**Neural Style Transfer**](): A model that applies the style of one image to another. 
+7. [**Neural Style Transfer**](https://github.com/JersonGB22/NeuralStyleTransfer-TensorFlow): A model that applies the style of one image to another. 
 
-8. [**Pix2Pix**](): A model for translating images from one domain to another. 
+8. [**Pix2Pix**](https://github.com/JersonGB22/Pix2Pix-TensorFlow-PyTorch): A model for translating images from one domain to another. 
 
-9. [**VAE (Variational Autoencoder)**](): A type of autoencoder that produces a distribution of the input data rather than a single representation. 
+9. [**VAE (Variational Autoencoder)**](https://github.com/JersonGB22/VAE-TensorFlow): A type of autoencoder that produces a distribution of the input data rather than a single representation. 
 
 ## **Contributions**
 
