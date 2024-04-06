@@ -14,11 +14,11 @@ Generative Deep Learning is a subfield of Artificial Intelligence that uses neur
 
 The following are the generative deep learning models that I have implemented to date:
 
-1. [**Autoencoder**](): An autoencoder is a neural network that is trained to copy its input to its output. It is used to learn efficient representations of the input data and/or to reduce the dimension of the input data. 
+1. [**Autoencoder**](https://github.com/JersonGB22/Autoencoder-TensorFlow): An autoencoder is a neural network that is trained to copy its input to its output. It is used to learn efficient representations of the input data and/or to reduce the dimension of the input data. 
 
-2. [**Conditional GAN**](): An extension of GANs that allows generating data conditioned on certain information. 
+2. [**Conditional GAN**](https://github.com/JersonGB22/CondicionalGAN-TensorFlow-PyTorch): An extension of GANs that allows generating data conditioned on certain information. 
 
-3. [**CycleGAN**](): A model for translating images from one domain to another, without the need for paired data. 
+3. [**CycleGAN**](https://github.com/JersonGB22/CycleGAN-horse2zebra-TensorFlow-PyTorch): A model for translating images from one domain to another, without the need for paired data. 
 
 4. [**DCGAN (Deep Convolutional Generative Adversarial Networks)**](): A variant of GANs that uses convolutional layers in its networks. 
 
