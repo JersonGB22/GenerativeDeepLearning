@@ -30,7 +30,7 @@ The following are the generative deep learning models that I have implemented to
 
 8. [**Pix2Pix**](https://github.com/JersonGB22/Pix2Pix-TensorFlow-PyTorch): A model for translating images from one domain to another. 
 
-9. [**VAE (Variational Autoencoder)**](https://github.com/JersonGB22/VAE-TensorFlow): A type of autoencoder that produces a distribution of the input data rather than a single representation. 
+9. [**VAE (Variational Autoencoder)**](https://github.com/JersonGB22/VAE-TensorFlow-PyTorch): A type of autoencoder that produces a distribution of the input data rather than a single representation. 
 
 ## **Contributions**
 
