@@ -16,7 +16,7 @@ The following are the generative deep learning models that I have implemented to
 
 1. [**Autoencoder**](https://github.com/JersonGB22/Autoencoder-TensorFlow-PyTorch): An autoencoder is a neural network that is trained to copy its input to its output. It is used to learn efficient representations of the input data and/or to reduce the dimension of the input data. 
 
-2. [**Conditional GAN**](https://github.com/JersonGB22/CondicionalGAN-TensorFlow-PyTorch): An extension of GANs that allows generating data conditioned on certain information. 
+2. [**Conditional GAN**](https://github.com/JersonGB22/ConditionalGAN-TensorFlow-PyTorch): An extension of GANs that allows generating data conditioned on certain information. 
 
 3. [**CycleGAN**](https://github.com/JersonGB22/CycleGAN-TensorFlow-PyTorch): A model for translating images from one domain to another, without the need for paired data. 
 
