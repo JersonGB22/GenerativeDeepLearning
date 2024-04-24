@@ -26,7 +26,7 @@ The following are the generative deep learning models that I have implemented to
 
 6. [**GAN Controllable Generation**](https://github.com/JersonGB22/GANControllableGeneration-TensorFlow-PyTorch): A model that allows controlling the characteristics of the generated data. 
 
-7. [**Neural Style Transfer**](https://github.com/JersonGB22/NeuralStyleTransfer-TensorFlow): A model that applies the style of one image to another. 
+7. [**Neural Style Transfer**](https://github.com/JersonGB22/NeuralStyleTransfer-TensorFlow-PyTorch): A model that applies the style of one image to another. 
 
 8. [**Pix2Pix**](https://github.com/JersonGB22/Pix2Pix-TensorFlow-PyTorch): A model for translating images from one domain to another. 
 
